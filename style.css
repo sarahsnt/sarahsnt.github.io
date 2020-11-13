@@ -1,0 +1,26 @@
+p{
+	color: white;
+	font-size: 22px;
+}
+a{
+	color: blue;
+
+}
+h1{
+	color: red;
+	text-align: center;
+	font-size: 44px;
+	font-family: Comic Sans MS;
+	text-decoration: underline;
+}
+
+h2{
+	color: grey;
+	font-size:  33px;
+	font-family:Courier New;
+	font-weight: bold;
+	 
+}
+body{
+	background-image: url(image_de_fond.jpg);
+}
